@@ -14,8 +14,10 @@ public:
         head = newNode;
     }
     
-    //write your solution here!
- 
+ // Write your function here
+    LinkedList reverseList() const {
+        // implement your function here!
+    }
 
     Node* head = nullptr;
 };
