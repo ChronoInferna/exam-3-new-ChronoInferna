@@ -31,7 +31,7 @@ The mean, or average, is calculated by summing all the values in a dataset and t
 For example, if you have the values 3, 5, and 7, the mean would be (3 + 5 + 7) / 3 = 15 / 3 = 5.
 
 # Question 2
-In this problem, you will develop a new function in our provided `LinkedList` class. Please observe the already existing structures found in `LinkedList.hpp`.
+In this problem, you will develop a new function in our provided `LinkedList` class. Please observe the already existing structures found in `ReverseList.hpp`.
 
 Create a new function named `reverseList`. This function should take in no parameters and return a `LinkedList` object.
 
