@@ -14,7 +14,6 @@ public:
         head = newNode;
     }
     
- // Write your function here
     LinkedList reverseList() const {
         // implement your function here!
     }
