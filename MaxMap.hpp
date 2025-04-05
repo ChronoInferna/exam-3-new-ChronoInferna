@@ -7,7 +7,7 @@
 
 float consultMax(const std::string& search_term, const std::map<std::string, std::vector<float>>& data) {
     std::vector<float> search_vec = data.at(search_term);
-    float max = 0;
+    float max = -1;
     for (float a : search_vec)
         if (a > max) max = a;
     
